@@ -1,5 +1,5 @@
 {
-  "name": "CurrLocation,
+  "name": "CurrLocation",
   "description": "Displays the city and state for the current location based on the current public IP address, using freegeoip.net.",
   "author": "Jim Kimmel",
   "email": "jimkimmel@gmail.com"
